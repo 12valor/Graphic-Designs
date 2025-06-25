@@ -1,3 +1,5 @@
+practice design kay natripan mag creatives
+
 🎨 30-Day Poster Design Challenge<br>
 Day 1: Announcement Poster (e.g., TechnoWatch Meeting)<br>
 Day 2: Event Poster (e.g., School Fair or Concert)<br>
