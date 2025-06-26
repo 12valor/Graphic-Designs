@@ -3,7 +3,7 @@ Practice design kay natripan mag creatives
 🎨 30-Day Poster Design Challenge<br>
 ✅Day 1: Announcement Poster (e.g., TechnoWatch Meeting)<br>
 ✅Day 2: Event Poster (e.g., School Fair or Concert)<br>
-Day 3: Motivational Quote Poster<br>
+✅Day 3: Motivational Quote Poster<br>
 Day 4: Sale/Promo Poster (e.g., 50% Off Promo)<br>
 Day 5: Movie Poster (real or made-up)<br>
 Day 6: Awareness Campaign Poster (e.g., Mental Health, Climate Change)<br>
