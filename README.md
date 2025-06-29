@@ -56,5 +56,3 @@ Currently working through a 30-day design sprint — each day has a specific the
 - `Photoshop` (sometimes)
 - `Pixlr / Photopea` (online)
 - `Figma` *(coming soon)*
-
----
