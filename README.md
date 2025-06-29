@@ -19,7 +19,7 @@ Currently working through a 30-day design sprint — each day has a specific the
 | ✅ | Day 2  | Event Poster *(e.g., School Fair / Concert)* |
 | ✅ | Day 3  | Motivational Quote Poster |
 | ✅ | Day 4  | Sale/Promo Poster *(e.g., 50% Off)* |
-| ⏳ | Day 5  | Movie Poster *(real or fictional)* |
+| ✅ | Day 5  | Movie Poster *(real or fictional)* |
 | ⏳ | Day 6  | Awareness Campaign *(Mental Health, Climate Change)* |
 | ⏳ | Day 7  | Social Media Poster *(Instagram square layout)* |
 | ⏳ | Day 8  | Job Hiring Poster |
