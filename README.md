@@ -4,16 +4,13 @@ Welcome to my design archive — a space where I explore creativity through **po
 I used to create **Roblox GFX (until 2022)**, and now I’m focused on improving my visual storytelling through daily design practice.
 
 ---
+## 📌 What I Design
 
-## ✨ About the Project
+- 🖼️ **Posters & Pubmats** – Event announcements, school promos, campaigns
+- 🎯 **YouTube Thumbnails** – Eye-catching thumbnails for engagement
+- 🎮 *(Past)* **Roblox GFX** – Stopped in 2022, but part of my creative journey
 
-> *"Practice design kay natripan mag creatives."*
-
-This is a passion project — a way for me to sharpen my skills, try new styles, and challenge myself with different design themes.  
-It's more than just posters — it's a visual journey of growth and experimentation.
-
----
-
+  ---
 ## 🗓️ 30-Day Poster Design Challenge
 
 Currently working through a 30-day design sprint — each day has a specific theme to inspire creativity and practice real-world layouts.
@@ -52,14 +49,6 @@ Currently working through a 30-day design sprint — each day has a specific the
 | ⏳ | Day 30 | Freestyle Challenge *(combine past styles)* |
 
 > ✅ = Completed | ⏳ = In Progress
-
----
-
-## 📌 What I Design
-
-- 🖼️ **Posters & Pubmats** – Event announcements, school promos, campaigns
-- 🎯 **YouTube Thumbnails** – Eye-catching thumbnails for engagement
-- 🎮 *(Past)* **Roblox GFX** – Stopped in 2022, but part of my creative journey
 
 ---
 
