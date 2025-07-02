@@ -1,3 +1,5 @@
+## NONE OF MY DESIGNS ARE A.I. GENERATED
+
 Welcome to my design archive — a space where I explore creativity through **posters**, **pubmats**, and **YouTube thumbnails**.  
 I used to create **Roblox GFX (until 2022)**, and now I’m focused on improving my visual storytelling through daily design practice.
 
