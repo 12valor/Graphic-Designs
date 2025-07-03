@@ -23,7 +23,7 @@ Currently working through a 30-day design sprint — each day has a specific the
 | ✅ | Day 4  | Sale/Promo Poster *(e.g., 50% Off)* |
 | ✅ | Day 5  | Movie Poster *(real or fictional)* |
 | ✅ | Day 6  | Awareness Campaign |
-| ⏳ | Day 7  | Social Media Poster *(Instagram square layout)* |
+| ✅ | Day 7  | Social Media Poster *(Instagram square layout)* |
 | ⏳ | Day 8  | Job Hiring Poster |
 | ⏳ | Day 9  | Festival/Cultural Event Poster |
 | ⏳ | Day 10 | Travel Poster *(e.g., Visit Baguio)* |
