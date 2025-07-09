@@ -28,7 +28,7 @@ Currently working through a 30-day design sprint — each day has a specific the
 | ✅ | Day 9  | Festival/Cultural Event Poster |
 | ✅ | Day 10 | Travel Poster *(e.g., Visit Baguio)* |
 | ✅ | Day 11 | Product Launch Poster |
-| ⏳ | Day 12 | Tech/Startup Poster |
+| ✅ | Day 12 | Tech/Startup Poster |
 | ⏳ | Day 13 | Missing Person or Pet Poster |
 | ⏳ | Day 14 | Sports Event Poster |
 | ⏳ | Day 15 | Infographic Poster *(with data or steps)* |
