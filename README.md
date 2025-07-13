@@ -31,7 +31,7 @@ Currently working through a 30-day design sprint — each day has a specific the
 | ✅ | Day 12 | Tech/Startup Poster |
 | ✅ | Day 13 | Missing Person or Pet Poster |
 | ✅ | Day 14 | Sports Event Poster |
-| ⏳ | Day 15 | Infographic Poster *(with data or steps)* |
+| ✅ | Day 15 | Infographic Poster *(with data or steps)* |
 | ⏳ | Day 16 | Typography-Only Poster *(no images)* |
 | ⏳ | Day 17 | Icons/Illustrations-Only Poster |
 | ⏳ | Day 18 | Music Album Poster |
