@@ -34,7 +34,7 @@ Currently working through a 30-day design sprint — each day has a specific the
 | ✅ | Day 15 | Infographic Poster *(with data or steps)* |
 | ✅ | Day 16 | Typography-Only Poster *(no images)* |
 | ❌ | Day 17 | Icons/Illustrations-Only Poster |
-| ⏳ | Day 18 | Music Album Poster |
+| ✅ | Day 18 | Music Album Poster |
 | ⏳ | Day 19 | School Club Recruitment Poster |
 | ⏳ | Day 20 | Educational Poster *(e.g., Parts of a Computer)* |
 | ⏳ | Day 21 | Health Tips Poster |
