@@ -36,7 +36,7 @@ Currently working through a 30-day design sprint — each day has a specific the
 | ❌ | Day 17 | Icons/Illustrations-Only Poster |
 | ✅ | Day 18 | Music Album Poster |
 | ✅ | Day 19 | School Club Recruitment Poster |
-| ⏳ | Day 20 | Educational Poster *(e.g., Parts of a Computer)* |
+| ✅ | Day 20 | Educational Poster *(e.g., Parts of a Computer)* |
 | ⏳ | Day 21 | Health Tips Poster |
 | ⏳ | Day 22 | Fashion Show Poster |
 | ⏳ | Day 23 | Food/Beverage Promo Poster *(e.g., Milk Tea, Pizza)* |
